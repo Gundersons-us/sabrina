@@ -3,3 +3,5 @@ name: The Circus
 description: 'Sabrina&#039;s Blog'
 
 theme: jekyll-theme-merlot
+
+baseurl: "sabrina"
