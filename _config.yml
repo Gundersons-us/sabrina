@@ -1,8 +1,7 @@
-url: http://blogs.gundersons.us/sabrina
-name: The Circus
 title: The Circus
 description: Sabrina's Blog
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-merlot
 baseurl: /sabrina
-show_downloads: false
 page_excerpts: true
