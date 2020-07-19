@@ -1,8 +1,8 @@
-url: "http://blogs.gundersons.us/sabrina"
-name: "The Circus"
-title: "The Circus"
-description: "Sabrina's Blog"
+url: http://blogs.gundersons.us/sabrina
+name: The Circus
+title: The Circus
+description: Sabrina's Blog
 theme: jekyll-theme-merlot
-baseurl: "/sabrina"
-show_downloads: "false"
-page_excerpts: "true"
+baseurl: /sabrina
+show_downloads: false
+page_excerpts: true
