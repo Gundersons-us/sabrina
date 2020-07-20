@@ -2,7 +2,6 @@
 layout: default
 title: The Circus
 ---
-
 ### Posts:
 
 <ul>
