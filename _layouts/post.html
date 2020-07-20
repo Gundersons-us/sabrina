@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-<p>{{ page.date | date: '%B %d, %Y' }} - by {{ page.author }}</p>
+<p>Posted on {{ page.date | date: '%B %d, %Y' }} by {{ page.author }}</p>
 <h3>{{ post.title }}</h3>
+<h3>{{ page.title }}</h3>
 {{ content }}
